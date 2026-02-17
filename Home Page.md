@@ -1,0 +1,1 @@
+This obsidian vault contains my notes taken during my MSc Data Science degree. Some of the modules in the degree have content that I am already familiar with and hence those notes are much more barebones as they server more as reminders/refreshers than actual notes.
